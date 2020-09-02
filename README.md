@@ -1,4 +1,4 @@
-### On a mission from god 🕶🎶
+### On a mission from god 🕶
 
 After 3 years of software engineering, I started focussing more on what always fascinated me: IT security.
 Currently, I mainly perform threat analyses, penetration tests, and security code reviews for German SMEs.
