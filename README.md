@@ -1,4 +1,4 @@
-### On a mission from God 🕶
+### On a mission from God 🕶 <sup>*</sup>
 
 After 3 years of software engineering, I started focussing more on what always fascinated me: IT security.
 Currently, I mainly perform threat analyses, penetration tests, and security code reviews for German SMEs.
@@ -7,3 +7,5 @@ Complementary to my hands-on work, I'm pursuing my master's degree in computer s
 Things I value: honesty, passion, ownership, continuous learning, and a good Risotto.
 
 You best reach me on [LinkedIn](https://www.linkedin.com/in/nico-fechtner-08397a171/).
+
+\* [https://en.wikipedia.org/wiki/The_Blues_Brothers_(film)](https://en.wikipedia.org/wiki/The_Blues_Brothers_(film))
